@@ -39,7 +39,7 @@ const GetInTouch = () => {
           fontVariantCaps: 'small-caps',
         }}
       >
-        Say hi!{' '}
+        Salut !{' '}
         <Text as="span" fontSize="2xl" variant="emphasis">
           <motion.div
             style={{ display: 'inline-block' }}
@@ -52,12 +52,12 @@ const GetInTouch = () => {
         </Text>
       </Heading>
       <Text variant="description">
-        Though, I am fairly introverted myself. I do reply to messages as long
-        as my human interaction battery lasts. Coding, work, movies or even weeb
-        stuff, anything is cool. So feel free to message me on any of my social
-        media or shoot me an{' '}
+        Malgré le fait que, je suis moi-même assez introverti. Je réponds aux messages tant que
+        ma batterie fonctionne :) Dessins, logo, affiches ou même web, tout est Cool.
+        Alors n'hésitez pas à m'envoyer un message sur l'un de mes article de Réseaux Sociaux
+        ou envoyez-moi un{' '}
         <Link
-          href="mailto:marcjhon18@gmail.com"
+          href="mailto:peio@mf.me"
           target="_blank"
           rel="noreferrer"
         >
