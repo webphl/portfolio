@@ -110,7 +110,7 @@ const Sidebar = () => {
             variants={fadeInUp}
             maxWidth={{ base: '100%', lg: '80%' }}
           >
-            Hé! Comme c'est gentil de votre part de regarder mon site personnel,
+            Comme c'est gentil de votre part de regarder mon site profesionnel,
             <Text variant="emphasis" as="span">
               {' '}
               Thank you!
