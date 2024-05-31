@@ -1,19 +1,19 @@
 import Head from 'next/head'
 const OpenGraphHead = () => (
   <Head>
-    <title>KL Lawingco | Software Engineer</title>
-    <meta name="description" content="My personal solace place on web-earth." />
-    <meta property="og:title" content="KL Lawingco | Software Engineer" />
-    <meta property="og:site_name" content="Marc Jhon Lawingco" />
-    <meta property="og:url" content="https://kllawingco.netlify.app/" />
+    <title>Peio | Graphiste Designer</title>
+    <meta name="description" content="Mon site Web Professionnel-Portfolio." />
+    <meta property="og:title" content="Peio | Graphiste Designer" />
+    <meta property="og:site_name" content="Peio HENAFF" />
+    <meta property="og:url" content="https://portfolio-peio.vercel.app/" />
     <meta
       property="og:description"
-      content="Ohh you found me?. Howdy! I am Marc Jhon Lawingco. Or you could call me KL. That works too . . . I am a Software Engineer"
+      content="Ohh tu m'as trouvé ?. Salut! Je m'appelle Peio HENAFF. Ou tu peux m'appeler Peio. Cela fonctionne aussi. . . Je suis Graphiste Designer"
     />
     <meta property="og:type" content="profile" />
     <meta
       property="og:image"
-      content="https://kllawingco.netlify.app/KL_avatar.png"
+      content="https://portfolio-peio.vercel.app/logo.png"
     ></meta>
   </Head>
 )
