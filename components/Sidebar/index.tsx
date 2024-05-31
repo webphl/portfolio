@@ -70,7 +70,7 @@ const Sidebar = () => {
             textTransform="uppercase"
             variants={fadeInUp}
           >
-            Marc Jhon
+            Peio HENAFF
           </MotionHeading>
           <MotionHeading
             as="h2"
@@ -90,7 +90,7 @@ const Sidebar = () => {
             className={styles.marginTopForce}
             variants={fadeInUp}
           >
-            Or you could call me KL. That works too . . .
+            Ou vous pouvez m'appeler Peio. Ça marche aussi . . .
           </MotionText>
 
           <MotionHeading
@@ -100,7 +100,7 @@ const Sidebar = () => {
             className={styles.marginTopSmall}
             variants={fadeInUp}
           >
-            Software Engineer
+            Graphiste Designer
           </MotionHeading>
 
           <MotionText
@@ -115,8 +115,8 @@ const Sidebar = () => {
               {' '}
               Thank you!
             </Text>
-            <br />Je suis Graphiste Designer spécialisé dans les logos, intégration graphique front
-            end , je me suis récemment retrouvé à étudier également l'UX.
+            <br />Je suis Graphiste Designer spécialisé dans les logos, l'intégration Graphique Front-end 
+            , je me suis récemment retrouvé à étudier également l'UX.
           </MotionText>
           <MotionButton
             size="lg"
