@@ -90,11 +90,11 @@ const Sidebar = () => {
             className={styles.marginTopForce}
             variants={fadeInUp}
           >
-            Ou vous pouvez m'appeler Peio. Ça marche aussi . . .
+            Ou vous pouvez m'appeler Pepei. Ça marche aussi . . .
           </MotionText>
 
           <MotionHeading
-            as="h3"
+            as="h2"
             size="md"
             variant="emphasis"
             className={styles.marginTopSmall}
