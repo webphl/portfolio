@@ -58,14 +58,14 @@ const Avatar = () => {
           fallback={<SkeletonCircle height="100%" width="100%" />}
         />
         <Text textAlign="center" fontSize="smaller" variant="description">
-          Art by{' '}
+          Illustration par {' '}
           <Link
-            href="https://twitter.com/kojiro_ai"
+            href="https://twitter.com/peio"
             target="_blank"
-            aria-label="KojiroArt"
+            aria-label="Peio Graphiste"
             rel="noreferrer"
           >
-            KojiroArt
+            Peio HENAFF - Graphiste
           </Link>
         </Text>
       </MotionBox>
