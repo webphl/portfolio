@@ -110,13 +110,13 @@ const Sidebar = () => {
             variants={fadeInUp}
             maxWidth={{ base: '100%', lg: '80%' }}
           >
-            Hey! How nice of you to look at my personal site,
+            Hé! Comme c'est gentil de votre part de regarder mon site personnel,
             <Text variant="emphasis" as="span">
               {' '}
               Thank you!
             </Text>
-            <br />I am software engineer that specializes at backend apis, front
-            end integration, recently found myself studying UX too.
+            <br />Je suis Graphiste Designer spécialisé dans les logos, intégration graphique front
+            end , je me suis récemment retrouvé à étudier également l'UX.
           </MotionText>
           <MotionButton
             size="lg"
@@ -133,7 +133,7 @@ const Sidebar = () => {
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.9 }}
           >
-            Get in touch!
+            Entrer en Contact !
           </MotionButton>
 
           <MotionBox d="flex" variants={simpleOpacity}>
