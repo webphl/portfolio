@@ -32,13 +32,13 @@ export const Experiences: {
     },
     roles: [
       <>
-       Contributed to the design and development of a comprehensive .NET payment integration project for a client
-       That covered credit card payments and subscription management.
-       Introduced Stripe as a new payment provider within the system architecture.
-       Participated in triaging, fixing and adding new functionalitiesto multiple Azure powered APIs of the same client.
+       Contribution à la conception et au développement d'un projet complet d'intégration de paiement .NET pour un client
+       Cela couvrait les paiements par carte de crédit et la gestion des abonnements.
+       Introduction de Stripe en tant que nouveau fournisseur de paiement au sein de l'architecture du système.
+       Participé au tri, à la correction et à l'ajout de nouvelles fonctionnalités à plusieurs API alimentées par Azure du même client.
       </>,
       <>
-        Worked as a Sitecore Backend on new{' '}
+        A travaillé en tant que Graphiste sur le nouveau{' '}
         <Link
           aria-label="Deloitte Digital AU"
           href="https://www.deloittedigital.com.au/"
