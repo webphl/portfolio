@@ -29,10 +29,10 @@ const DevToArticles = ({ articles }: { articles: Article[] }) => {
           fontVariantCaps: 'small-caps',
         }}
       >
-        Dev.to blog
+        Mon Blog
       </Heading>
       <Text variant="description">
-        I write dev related things from time to time!
+        J'écris des choses liées aux graphistes de temps en temps !
       </Text>
       <SimpleGrid columns={{ base: 1, md: 2 }} spacing={{ base: 5, md: 10 }}>
         {articles.map((item) => (
