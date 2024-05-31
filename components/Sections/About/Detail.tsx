@@ -48,41 +48,41 @@ const Detail = ({ onOpen }: ISkillSetModal) => {
           fontVariantCaps: 'small-caps',
         }}
       >
-        What i do.
+        Ce que je réalise.
       </Heading>
       <Text variant="description">
-        I`ve been coding professionally for {professionalYears} years now and
-        currently working as a <b>Software Engineer</b> that focuses on{' '}
-        <b>architecture</b>, <b>APIs</b>,{' '}
+        Je suis Graphiste Professionnel depuis {professionalYears} années maintenant et
+        je travaille actuellement comme <b>Software Engineer</b> qui se concentre sur{' '}
+        <b>Le Design</b>, <b>Le Graphisme</b>,{' '}
         <Tooltip
-          label="Ha!. Or more accurately TECH DEBT"
+          label="Ha!. Ou plus précisément Graphiste Designer"
           aria-label="Tech Debt?"
           hasArrow
         >
           <Text as="span" variant="emphasis">
-            <b>nitty-gritty business logics</b>
+            <b>métier essentielles</b>
           </Text>
         </Tooltip>{' '}
-        and even <b>front end integration</b> stuff now, how time flies!
+        et même <b>UX Design Front-End</b> pour le secteur Web
         <br /> <br />
-        Here are few technologies that are cup of my{' '}
+        Voici quelques technologies qui me tiennent à cœur{' '}
         <Tooltip
-          label="I only drink tea if I needed too!"
-          aria-label="I hate Tea!"
+          label="Je ne bois du thé que si j'en ai besoin aussi !"
+          aria-label="Je déteste le thé !"
           hasArrow
         >
           <Text as="span" variant="emphasis" textDecorationLine="line-through">
-            tea
+            thé
           </Text>
         </Tooltip>{' '}
-        coffee <Icon as={GiCoffeePot} color={emphasis} />.
+        café <Icon as={GiCoffeePot} color={emphasis} />.
       </Text>
 
       <SimpleGrid columns={2} spacing={4}>
         <List spacing={3}>
           <ListItem fontSize="small" display="flex" alignItems="center">
-            <ListIcon as={SiDotNet} color={emphasis} fontSize="2em" />
-            C# - .NET.Core
+            <ListIcon as={SiAdobe} color={emphasis} fontSize="2em" />
+            Suite Adobe
           </ListItem>
           <ListItem fontSize="small" display="flex" alignItems="center">
             <ListIcon as={SiJavascript} color={emphasis} fontSize="2em" />
@@ -124,7 +124,7 @@ const Detail = ({ onOpen }: ISkillSetModal) => {
             textAlign="left"
             onClick={onOpen}
           >
-            See my full arsenal <Icon as={IoMdOpen} />
+            Voir mon arsenal complet <Icon as={IoMdOpen} />
           </Text>
         </Box>
       </SimpleGrid>
