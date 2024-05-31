@@ -83,8 +83,8 @@ const GetInTouch = () => {
         >
           <Text as="span">
             <Icon as={RiGithubFill} h={6} w={6} /> <br />
-            Designed and Made with <Icon as={RiHeartPulseFill} /> <br />
-            KL Lawingco <Icon as={RiCopyleftLine} /> 2021
+            Conçu et réalisé avec <Icon as={RiHeartPulseFill} /> <br />
+            WebPhL <Icon as={RiCopyleftLine} /> 2024
           </Text>
         </Link>
       </Box>
