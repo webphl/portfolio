@@ -8,7 +8,7 @@ const OpenGraphHead = () => (
     <meta property="og:url" content="https://portfolio-peio.vercel.app/" />
     <meta
       property="og:description"
-      content="Ohh tu m'as trouvé ?. Salut! Je m'appelle Peio HENAFF. Ou tu peux m'appeler Peio. Cela fonctionne aussi. . . Je suis Graphiste Designer"
+      content="Ohh tu m'as trouvé ?. Salut! Je m'appelle Peio HENAFF. Ou tu peux m'appeler Pepei. Cela fonctionne aussi. . . Je suis Graphiste Designer"
     />
     <meta property="og:type" content="profile" />
     <meta
