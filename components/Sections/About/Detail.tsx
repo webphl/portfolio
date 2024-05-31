@@ -48,12 +48,12 @@ const Detail = ({ onOpen }: ISkillSetModal) => {
           fontVariantCaps: 'small-caps',
         }}
       >
-        What i do.
+        Ce que je réalise.
       </Heading>
       <Text variant="description">
-        I`ve been coding professionally for {professionalYears} years now and
-        currently working as a <b>Software Engineer</b> that focuses on{' '}
-        <b>architecture</b>, <b>APIs</b>,{' '}
+        Je suis Graphiste professionel depuis {professionalYears} années et
+        travaille actuellement comme <b>Software Engineer</b> qui se concentre sur le {' '}
+        <b>design graphique</b>, <b>APIs</b>,{' '}
         <Tooltip
           label="Ha!. Or more accurately TECH DEBT"
           aria-label="Tech Debt?"
