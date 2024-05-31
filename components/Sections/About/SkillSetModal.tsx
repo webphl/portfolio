@@ -89,7 +89,7 @@ const SkillSetModal = ({ isOpen, onClose }: ISkillSetModal) => {
     >
       <ModalOverlay />
       <ModalContent>
-        <ModalHeader>Full Skill Set List</ModalHeader>
+        <ModalHeader>Liste complète des compétences</ModalHeader>
         <ModalCloseButton />
         <ModalBody className={styles.skillModal}>
           <SkillList title="Backend Centric" columns={backendCols} />
