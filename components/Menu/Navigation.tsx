@@ -175,7 +175,7 @@ const Navigation = () => {
               rel="noreferrer"
               onClick={onMenuItemClick}
             >
-              Travaux
+              Réalisations
             </Button>
           </Box>
           <Box
