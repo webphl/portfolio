@@ -13,7 +13,7 @@ const DetailSection = () => (
         fontVariantCaps: 'small-caps',
       }}
     >
-      Places i’ve worked.
+      Lieux où j'ai travaillé.
     </Heading>
     <Text variant="description">
       Depuis 2016, j'ai eu le privilège de travailler avec plusieurs entreprises ce qui m'a permit
