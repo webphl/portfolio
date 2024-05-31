@@ -28,11 +28,11 @@ const FeaturedWorksSection = () => {
           fontVariantCaps: 'small-caps',
         }}
       >
-        Some of my works.
+        Certaines de mes réalisations.
       </Heading>
       <Text variant="description">
-        Check out some of the works I made at freelancing, company projects and
-        even case studies.
+        Découvrez quelques-uns des travaux que j'ai réalisés en freelance, sur des projets d'entreprise et
+        sur des études de cas.
       </Text>
 
       <MotionGrid
