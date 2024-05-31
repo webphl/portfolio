@@ -81,7 +81,7 @@ const Detail = ({ onOpen }: ISkillSetModal) => {
       <SimpleGrid columns={2} spacing={4}>
         <List spacing={3}>
           <ListItem fontSize="small" display="flex" alignItems="center">
-            <ListIcon as={SiAdobe} color={emphasis} fontSize="2em" />
+            <ListIcon as={SiDotNet} color={emphasis} fontSize="2em" />
             Suite Adobe
           </ListItem>
           <ListItem fontSize="small" display="flex" alignItems="center">
