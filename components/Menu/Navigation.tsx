@@ -133,7 +133,7 @@ const Navigation = () => {
               rel="noreferrer"
               onClick={onMenuItemClick}
             >
-              About
+              À Propos
             </Button>
           </Box>
           <Box
@@ -154,7 +154,7 @@ const Navigation = () => {
               rel="noreferrer"
               onClick={onMenuItemClick}
             >
-              Experience
+              Expérience
             </Button>
           </Box>
           <Box
@@ -175,7 +175,7 @@ const Navigation = () => {
               rel="noreferrer"
               onClick={onMenuItemClick}
             >
-              Works
+              Travaux
             </Button>
           </Box>
           <Box
